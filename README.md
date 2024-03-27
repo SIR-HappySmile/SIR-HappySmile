@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIR-HappySmile
 - 🇷🇺 I'm in Russia
-- 👀 I’m interested in phyton
+- 👀 I’m interested in Пайтон
 - 📫 How to reach me - discord ( sir_happy_smile) 
-- 😄 Pronouns: SIR
+- 😄 Pronouns: Я человек
 - ⚡ Fun fact: I'm junior created, but sometimes I can make a difficult code! 
